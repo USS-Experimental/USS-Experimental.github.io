@@ -3,11 +3,11 @@
   <title>The Blog of USS-Experinemtal</title>
   
   
-  <link href="https://uss-experimental.github.io/project/atom.xml" rel="self"/>
+  <link href="https://example.com/atom.xml" rel="self"/>
   
-  <link href="https://uss-experimental.github.io/project/"/>
+  <link href="https://example.com/"/>
   <updated>2023-02-08T06:36:56.657Z</updated>
-  <id>https://uss-experimental.github.io/project/</id>
+  <id>https://example.com/</id>
   
   <author>
     <name>USS-Experimental</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>要似了</title>
-    <link href="https://uss-experimental.github.io/project/2023/02/08/%E8%A6%81%E4%BC%BC%E4%BA%86/"/>
-    <id>https://uss-experimental.github.io/project/2023/02/08/%E8%A6%81%E4%BC%BC%E4%BA%86/</id>
+    <link href="https://example.com/2023/02/08/%E8%A6%81%E4%BC%BC%E4%BA%86/"/>
+    <id>https://example.com/2023/02/08/%E8%A6%81%E4%BC%BC%E4%BA%86/</id>
     <published>2023-02-08T06:26:59.000Z</published>
     <updated>2023-02-08T06:36:56.657Z</updated>
     
